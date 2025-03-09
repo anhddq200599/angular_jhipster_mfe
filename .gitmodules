@@ -4,3 +4,6 @@
 [submodule "remote"]
 	path = remote
 	url = https://github.com/anhddq200599/remote.git
+[submodule "angular-mfe-example"]
+	path = angular-mfe-example
+	url = https://github.com/anhddq200599/angular-mfe-example.git
