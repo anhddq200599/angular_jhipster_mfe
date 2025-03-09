@@ -1,0 +1,6 @@
+[submodule "shell"]
+	path = shell
+	url = https://github.com/anhddq200599/shell.git
+[submodule "remote"]
+	path = remote
+	url = https://github.com/anhddq200599/remote.git
